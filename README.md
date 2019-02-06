@@ -1,0 +1,2 @@
+# lexicon
+For educational purposes
